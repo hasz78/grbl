@@ -43,7 +43,7 @@
 #define CPU_MAP_ATMEGA328P // Arduino Uno CPU
 #endif
 #ifdef STM32F103C8
-#define CPU_MAP_STM32F103
+#define CPU_MAP_STM32F103_IL1
 #endif
 
 // Serial baud rate
